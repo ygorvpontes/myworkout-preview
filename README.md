@@ -34,14 +34,8 @@ O **MyWorkout** nasceu para resolver a complexidade do acompanhamento de treinos
 
 ---
 
-## 📸 Demonstração Visual
-*(Insira aqui os prints das telas principais do seu app: Dashboard de Treino, Histórico e Visualizador 3D)*
-
-| Dashboard / Registro de Séries |
-| :---: | :---: |
-| ![Dashboard](<img width="359" height="770" alt="{B6E3AB6D-6527-4AA2-9D80-D548829A7176}" src="https://github.com/user-attachments/assets/f39ce29d-21cf-4cf0-b6fe-cabf3bb6d525" />
-) | ![Registro de Séries](<img width="370" height="757" alt="{726C56C2-B378-470C-869F-0AF6285187C1}" src="https://github.com/user-attachments/assets/81b2be18-2c94-47c0-adac-6ef84e8467ad" />
-) |
+## 📸 Demonstração & Status do Projeto
+A aplicação conta com interface otimizada para dispositivos móveis, motor visual integrado e fluxos de dados em tempo real utilizando Supabase. Os prints e gifs demonstrativos podem ser conferidos diretamente na aplicação em produção abaixo.
 
 ---
 
